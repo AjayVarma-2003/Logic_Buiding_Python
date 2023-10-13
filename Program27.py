@@ -1,6 +1,4 @@
-## Problem Statement : Print Jay Ganesh on screen 5 times
-
-## Conclusion : We have to print Jay Ganesh 5 times on screen
+## Problem Statement : Print hello and the number with it that much times it is printed
 
 ###########################################################################################
 ##
@@ -9,17 +7,17 @@
 ##  Input :         None
 ##  Output :        None 
 ##  Author :        Ajay Yogesh Varma
-##  Date :          12-10-2023
+##  Date :          13-10-2023
 ##
 ############################################################################################
 
-def Display():
-    iCnt = 0
+def Display ():
+    print("Hello 1")
+    print("Hello 2")
+    print("Hello 3")
+    print("Hello 4")
+    print("Hello 5")
     
-    for iCnt in range(0, 5):
-        print("Jay Ganesh...")
-        
-
 ############################################################################################
 ##
 ##  This is entry point of function
